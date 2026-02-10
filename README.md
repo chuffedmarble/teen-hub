@@ -1,4 +1,4 @@
-TeenHub 📱🌍
+# TeenHub 📱🌍
 
 A community-driven mobile app for teens to share ideas, hobbies, and connect locally.
 
