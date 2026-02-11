@@ -237,11 +237,11 @@ Accessibility enhancements
 
 Primary Developer:
 
-[Your Name]
+ChuffenMarble
 
 Built with guidance & architecture support from:
 
-ChatGPT (OpenAI)
+ChatGPT
 
 📜 License
 
